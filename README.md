@@ -27,7 +27,9 @@ In order to pass the tests, the following instructions must be followed for hand
 
 - Consider the following list of output strings in case of errors. The strings are descriptive.
 ```
-Invalid Input
+- Invalid Input
+- Invalid year
+- Invalid year day
 ```
 
 Test Suite
