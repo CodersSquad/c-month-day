@@ -18,4 +18,4 @@ test: build
 	./${APP_NAME} 70 175
 
 clean:
-	rm -rf {APP_NAME}
+	rm -rf ${APP_NAME}
